@@ -35,3 +35,4 @@ function area(shape: Shape) {
     }
 }
 
+export {}
