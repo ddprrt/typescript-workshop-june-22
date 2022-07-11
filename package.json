@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/ddprrt/typescript-workshop-june-22#readme",
   "devDependencies": {
+    "@types/react": "^18.0.15",
+    "react": "^18.2.0",
     "typescript": "^4.7.4"
   }
 }
